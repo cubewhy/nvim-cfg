@@ -9,7 +9,7 @@ vim.keymap.set("n", "dd", '"_dd', { noremap = true, silent = true })
 vim.keymap.set("x", "d", '"_d', { noremap = true, silent = true })
 
 -- Disable arrow keys
-vim.keymap.set({ "n", "v" }, "<Up>", "<Nop>")
-vim.keymap.set({ "n", "v" }, "<Down>", "<Nop>")
-vim.keymap.set({ "n", "v" }, "<Left>", "<Nop>")
-vim.keymap.set({ "n", "v" }, "<Right>", "<Nop>")
+-- vim.keymap.set({ "n", "v" }, "<Up>", "<Nop>")
+-- vim.keymap.set({ "n", "v" }, "<Down>", "<Nop>")
+-- vim.keymap.set({ "n", "v" }, "<Left>", "<Nop>")
+-- vim.keymap.set({ "n", "v" }, "<Right>", "<Nop>")
